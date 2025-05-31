@@ -80,7 +80,7 @@ async function moviesSearch(value) {
     `<i class="fa-solid fa-spinner movies__list--loading movies__list--loading-visible"></i>` +
     moviesHTML;
 
-  console.log('pending');
+  console.log('pending ');
 }
 
 function loadingDone() {
